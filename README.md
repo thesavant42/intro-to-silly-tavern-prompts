@@ -1,4 +1,4 @@
-# SillyTavern提示词系统指南 
+# SillyTavern提示词系统分析
 
 [包含代码分析的、更为详尽的版本](WITHCODE.md)
 
